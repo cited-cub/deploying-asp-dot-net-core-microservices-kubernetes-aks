@@ -332,9 +332,7 @@ ASALocalRun/
 *.binlog
 
 # NVidia Nsight GPU debugger configuration file
-*.nvuser
-
-# MFractors (Xamarin productivity tool) working folder
+*.nvuity tool) working folder
 .mfractor/
 
 # Local History for Visual Studio
@@ -348,3 +346,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# My custom secrets file
+secrets.txt
